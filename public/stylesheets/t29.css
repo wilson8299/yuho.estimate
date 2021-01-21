@@ -132,7 +132,7 @@ body #patent .patentcontent {
 }
 #header .left h1 {
   text-align: left;
-  font-size: 60px;
+  font-size: 55px;
   font-weight: bold;
   margin-bottom: 40px;
 }
@@ -262,10 +262,10 @@ body #patent .patentcontent {
 #download .downfile:hover {
   transform: scale(1.2);
 }
-#download .downfile:hover h3 {
+#download .downfile:hover h4 {
   font-weight: 600;
 }
-#download .downfile h3 {
+#download .downfile h4 {
   display: inline-block;
   padding: 34px 0 0 24px;
   font-size: 32px;
@@ -326,6 +326,8 @@ body #patent .patentcontent {
 
 #footer {
   background-color: #0d1926;
+  padding: 5px 0;
+  font-size: 14px;
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199.5px) {
