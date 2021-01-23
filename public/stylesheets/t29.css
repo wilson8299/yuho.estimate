@@ -58,7 +58,7 @@ html body {
   overflow-x: hidden;
   position: relative;
   display: inline-block;
-  text-align: center;
+  text-align: left;
   margin: 0;
   width: 100%;
   min-height: 100%;
@@ -68,6 +68,12 @@ html body {
   background-size: cover;
   color: white;
 }
+
+h3 {
+  text-align: center;
+  padding-bottom: 6px;
+}
+
 html body a {
   text-decoration: none;
 }
@@ -78,7 +84,7 @@ html body ul {
 html body p {
   margin: 0;
 }
-html body h1, html body h2, html body h3, html body h4, html body h5, html body h6 {
+html body h1, html body h2, html body h4, html body h5, html body h6 {
   padding: 0;
   margin: 0;
 }
