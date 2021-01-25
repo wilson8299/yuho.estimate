@@ -334,6 +334,7 @@ body #patent .patentcontent {
   background-color: #0d1926;
   padding: 5px 0;
   font-size: 14px;
+  text-align: center;
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199.5px) {
